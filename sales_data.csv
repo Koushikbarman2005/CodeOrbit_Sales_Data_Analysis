@@ -1,0 +1,251 @@
+OrderID,OrderDate,Category,Product,Region,Quantity,UnitPrice,Sales
+1001,2025-11-30,Furniture,Standing Desk,West,1,237.77,237.77
+1002,2025-09-17,Electronics,USB-C Cable,North,4,8.17,32.68
+1003,2025-05-04,Home & Kitchen,Storage Bin,North,2,14.14,28.28
+1004,2025-04-25,Electronics,Webcam,North,1,35.54,35.54
+1005,2025-01-24,Home & Kitchen,Coffee Mug,South,3,7.66,22.98
+1006,2025-10-20,Office Supplies,Pen Set,North,5,6.07,30.35
+1007,2025-07-10,Office Supplies,Notebook,South,2,4.04,8.08
+1008,2025-11-13,Electronics,Webcam,North,4,34.97,139.88
+1009,2025-10-27,Home & Kitchen,Desk Lamp,West,8,21.39,171.12
+1010,2025-02-11,Office Supplies,Stapler,South,5,7.04,35.2
+1011,2025-11-08,Furniture,Filing Cabinet,East,2,87.74,175.48
+1012,2025-03-19,Home & Kitchen,Water Bottle,East,8,11.81,94.48
+1013,2025-06-24,Electronics,Webcam,East,6,35.66,213.96
+1014,2025-05-19,Home & Kitchen,Coffee Mug,North,8,8.32,66.56
+1015,2025-11-28,Electronics,Wireless Mouse,East,8,17.22,137.76
+1016,2025-08-25,Home & Kitchen,Desk Lamp,North,6,20.54,123.24
+1017,2025-04-22,Electronics,Laptop Stand,North,5,25.92,129.6
+1018,2025-09-12,Office Supplies,Desk Organizer,West,2,14.0,28.0
+1019,2025-03-12,Home & Kitchen,Air Purifier,East,7,80.46,563.22
+1020,2025-12-16,Furniture,Filing Cabinet,East,7,103.7,725.9
+1021,2025-03-19,Office Supplies,Notebook,South,4,4.13,16.52
+1022,2025-05-15,Electronics,Laptop Stand,South,5,25.22,126.1
+1023,2025-11-09,Home & Kitchen,Air Purifier,East,6,81.8,490.8
+1024,2025-07-23,Electronics,Laptop Stand,West,7,27.41,191.87
+1025,2025-04-08,Home & Kitchen,Storage Bin,North,2,15.36,30.72
+1026,2025-06-24,Home & Kitchen,Water Bottle,North,1,11.05,11.05
+1027,2025-07-06,Office Supplies,Pen Set,North,1,5.48,5.48
+1028,2025-03-18,Office Supplies,Pen Set,West,5,6.55,32.75
+1029,2025-03-01,Furniture,Filing Cabinet,North,8,104.37,834.96
+1030,2025-06-09,Home & Kitchen,Storage Bin,West,2,13.0,26.0
+1031,2025-12-21,Furniture,Bookshelf,West,3,85.28,255.84
+1032,2025-03-17,Office Supplies,Pen Set,East,1,6.31,6.31
+1033,2025-09-23,Furniture,Office Chair,East,6,129.8,778.8
+1034,2025-11-22,Furniture,Standing Desk,East,4,265.89,1063.56
+1035,2025-04-27,Office Supplies,Stapler,West,4,7.02,28.08
+1036,2025-05-24,Furniture,Office Chair,North,8,114.22,913.76
+1037,2025-07-06,Furniture,Filing Cabinet,East,2,89.69,179.38
+1038,2025-06-22,Office Supplies,Desk Organizer,South,4,14.95,59.8
+1039,2025-11-26,Electronics,Laptop Stand,East,2,29.87,59.74
+1040,2025-09-02,Electronics,Laptop Stand,South,3,27.63,82.89
+1041,2025-08-26,Furniture,Office Chair,West,7,125.84,880.88
+1042,2025-03-07,Electronics,Bluetooth Speaker,South,1,41.86,41.86
+1043,2025-12-03,Home & Kitchen,Water Bottle,West,6,11.17,67.02
+1044,2025-11-29,Office Supplies,Notebook,North,2,4.02,8.04
+1045,2025-04-19,Office Supplies,Desk Organizer,South,1,14.26,14.26
+1046,2025-10-28,Furniture,Monitor Arm,South,6,39.98,239.88
+1047,2025-07-01,Home & Kitchen,Water Bottle,North,8,12.39,99.12
+1048,2025-09-30,Home & Kitchen,Air Purifier,South,3,75.35,226.05
+1049,2025-11-08,Electronics,Laptop Stand,South,1,29.55,29.55
+1050,2025-08-31,Office Supplies,Stapler,South,2,7.08,14.16
+1051,2025-02-24,Furniture,Monitor Arm,West,1,39.89,39.89
+1052,2025-09-17,Furniture,Office Chair,North,8,121.48,971.84
+1053,2025-11-10,Electronics,Laptop Stand,East,4,29.08,116.32
+1054,2025-09-17,Home & Kitchen,Air Purifier,West,4,77.99,311.96
+1055,2025-08-18,Furniture,Monitor Arm,South,3,41.3,123.9
+1056,2025-02-07,Home & Kitchen,Storage Bin,East,4,13.8,55.2
+1057,2025-03-21,Office Supplies,Sticky Notes,North,6,2.79,16.74
+1058,2025-02-18,Office Supplies,Desk Organizer,South,7,16.15,113.05
+1059,2025-12-28,Office Supplies,Stapler,South,7,7.69,53.83
+1060,2025-04-11,Home & Kitchen,Desk Lamp,West,6,21.2,127.2
+1061,2025-10-11,Furniture,Office Chair,East,8,118.57,948.56
+1062,2025-09-22,Electronics,Laptop Stand,East,5,28.07,140.35
+1063,2025-02-23,Electronics,Wireless Mouse,South,2,17.16,34.32
+1064,2025-03-08,Electronics,Bluetooth Speaker,East,7,48.15,337.05
+1065,2025-10-02,Furniture,Filing Cabinet,South,8,98.81,790.48
+1066,2025-12-19,Electronics,USB-C Cable,North,3,8.87,26.61
+1067,2025-11-21,Electronics,USB-C Cable,North,2,9.54,19.08
+1068,2025-02-04,Electronics,Webcam,South,5,37.54,187.7
+1069,2025-10-11,Home & Kitchen,Coffee Mug,East,7,8.68,60.76
+1070,2025-01-23,Furniture,Monitor Arm,South,4,45.68,182.72
+1071,2025-04-03,Office Supplies,Sticky Notes,North,4,3.26,13.04
+1072,2025-05-29,Furniture,Monitor Arm,South,8,42.0,336.0
+1073,2025-01-10,Office Supplies,Sticky Notes,East,5,2.72,13.6
+1074,2025-09-21,Electronics,Webcam,South,8,33.22,265.76
+1075,2025-12-03,Home & Kitchen,Coffee Mug,West,8,8.07,64.56
+1076,2025-12-19,Home & Kitchen,Air Purifier,East,4,82.24,328.96
+1077,2025-07-27,Furniture,Standing Desk,South,6,285.06,1710.36
+1078,2025-11-17,Office Supplies,Notebook,North,5,3.94,19.7
+1079,2025-09-17,Electronics,Wireless Mouse,West,5,18.36,91.8
+1080,2025-04-05,Furniture,Office Chair,West,3,114.46,343.38
+1081,2025-06-18,Electronics,USB-C Cable,East,6,8.54,51.24
+1082,2025-04-04,Furniture,Standing Desk,East,1,251.44,251.44
+1083,2025-09-15,Electronics,Laptop Stand,East,4,26.59,106.36
+1084,2025-02-15,Electronics,Wireless Mouse,East,3,17.64,52.92
+1085,2025-06-03,Electronics,Laptop Stand,North,5,28.73,143.65
+1086,2025-12-03,Electronics,Webcam,South,7,36.85,257.95
+1087,2025-11-13,Home & Kitchen,Water Bottle,East,3,10.91,32.73
+1088,2025-09-26,Home & Kitchen,Air Purifier,South,1,79.9,79.9
+1089,2025-01-22,Office Supplies,Notebook,North,3,4.11,12.33
+1090,2025-10-13,Electronics,Laptop Stand,West,1,28.72,28.72
+1091,2025-01-02,Office Supplies,Desk Organizer,East,8,15.89,127.12
+1092,2025-08-31,Electronics,Webcam,North,5,37.16,185.8
+1093,2025-04-29,Furniture,Standing Desk,South,8,259.69,2077.52
+1094,2025-12-17,Home & Kitchen,Coffee Mug,West,5,8.43,42.15
+1095,2025-06-19,Office Supplies,Notebook,South,5,4.12,20.6
+1096,2025-01-07,Furniture,Monitor Arm,South,8,38.31,306.48
+1097,2025-12-12,Furniture,Office Chair,South,8,114.98,919.84
+1098,2025-08-27,Furniture,Filing Cabinet,West,2,104.37,208.74
+1099,2025-08-31,Office Supplies,Sticky Notes,North,1,2.87,2.87
+1100,2025-05-18,Electronics,Webcam,West,7,32.97,230.79
+1101,2025-03-14,Office Supplies,Notebook,North,5,4.36,21.8
+1102,2025-02-27,Office Supplies,Pen Set,East,6,5.68,34.08
+1103,2025-03-23,Home & Kitchen,Storage Bin,North,1,15.26,15.26
+1104,2025-03-14,Home & Kitchen,Storage Bin,East,7,13.56,94.92
+1105,2025-01-01,Furniture,Office Chair,East,6,126.02,756.12
+1106,2025-01-07,Home & Kitchen,Coffee Mug,South,5,7.61,38.05
+1107,2025-10-29,Electronics,Laptop Stand,West,2,27.22,54.44
+1108,2025-05-24,Home & Kitchen,Desk Lamp,North,2,20.03,40.06
+1109,2025-05-17,Furniture,Standing Desk,South,7,260.57,1823.99
+1110,2025-01-15,Office Supplies,Sticky Notes,West,7,3.25,22.75
+1111,2025-07-30,Office Supplies,Notebook,North,8,4.09,32.72
+1112,2025-01-26,Office Supplies,Sticky Notes,West,3,2.8,8.4
+1113,2025-06-02,Home & Kitchen,Desk Lamp,East,5,23.05,115.25
+1114,2025-06-04,Furniture,Filing Cabinet,South,8,96.09,768.72
+1115,2025-11-26,Home & Kitchen,Coffee Mug,South,3,7.32,21.96
+1116,2025-08-20,Home & Kitchen,Air Purifier,South,6,82.45,494.7
+1117,2025-10-08,Home & Kitchen,Storage Bin,South,4,13.28,53.12
+1118,2025-06-13,Office Supplies,Sticky Notes,North,4,2.92,11.68
+1119,2025-07-16,Office Supplies,Notebook,West,7,4.2,29.4
+1120,2025-06-23,Office Supplies,Desk Organizer,East,1,14.99,14.99
+1121,2025-02-17,Furniture,Standing Desk,South,5,280.63,1403.15
+1122,2025-08-10,Home & Kitchen,Storage Bin,West,5,14.98,74.9
+1123,2025-08-06,Electronics,Bluetooth Speaker,North,8,49.21,393.68
+1124,2025-07-20,Home & Kitchen,Coffee Mug,North,8,8.76,70.08
+1125,2025-03-21,Office Supplies,Notebook,South,3,4.02,12.06
+1126,2025-10-10,Electronics,Laptop Stand,North,1,25.21,25.21
+1127,2025-11-27,Office Supplies,Stapler,North,5,7.65,38.25
+1128,2025-12-24,Furniture,Monitor Arm,West,2,38.64,77.28
+1129,2025-07-18,Furniture,Monitor Arm,South,5,39.68,198.4
+1130,2025-08-24,Electronics,Wireless Mouse,East,5,19.65,98.25
+1131,2025-10-08,Office Supplies,Desk Organizer,South,4,13.59,54.36
+1132,2025-01-12,Home & Kitchen,Desk Lamp,North,4,21.99,87.96
+1133,2025-04-27,Home & Kitchen,Coffee Mug,East,7,8.68,60.76
+1134,2025-12-23,Office Supplies,Desk Organizer,North,6,15.65,93.9
+1135,2025-01-04,Furniture,Filing Cabinet,South,5,99.54,497.7
+1136,2025-04-13,Electronics,Bluetooth Speaker,West,5,47.39,236.95
+1137,2025-04-24,Office Supplies,Stapler,West,5,7.36,36.8
+1138,2025-11-09,Furniture,Office Chair,West,3,129.52,388.56
+1139,2025-11-01,Home & Kitchen,Storage Bin,North,3,15.18,45.54
+1140,2025-11-02,Electronics,Bluetooth Speaker,North,3,44.24,132.72
+1141,2025-08-19,Electronics,Bluetooth Speaker,West,6,47.09,282.54
+1142,2025-04-08,Electronics,Bluetooth Speaker,East,3,46.37,139.11
+1143,2025-12-07,Home & Kitchen,Coffee Mug,East,7,8.54,59.78
+1144,2025-02-25,Furniture,Filing Cabinet,South,1,86.99,86.99
+1145,2025-03-05,Electronics,USB-C Cable,West,4,8.78,35.12
+1146,2025-01-26,Furniture,Filing Cabinet,North,8,89.22,713.76
+1147,2025-07-06,Home & Kitchen,Water Bottle,East,8,10.87,86.96
+1148,2025-01-21,Home & Kitchen,Water Bottle,West,7,10.88,76.16
+1149,2025-04-10,Electronics,Wireless Mouse,East,2,19.43,38.86
+1150,2025-06-21,Furniture,Bookshelf,East,1,80.96,80.96
+1151,2025-01-02,Furniture,Bookshelf,East,2,76.91,153.82
+1152,2025-08-27,Office Supplies,Notebook,West,7,4.23,29.61
+1153,2025-09-12,Home & Kitchen,Storage Bin,South,3,12.62,37.86
+1154,2025-06-17,Furniture,Standing Desk,South,6,257.96,1547.76
+1155,2025-07-20,Electronics,Webcam,South,3,33.23,99.69
+1156,2025-10-10,Electronics,Wireless Mouse,West,6,16.78,100.68
+1157,2025-05-16,Home & Kitchen,Coffee Mug,North,2,7.53,15.06
+1158,2025-03-30,Home & Kitchen,Storage Bin,West,4,12.97,51.88
+1159,2025-10-03,Home & Kitchen,Air Purifier,South,2,79.2,158.4
+1160,2025-10-18,Furniture,Bookshelf,East,5,82.84,414.2
+1161,2025-05-07,Furniture,Standing Desk,West,3,246.76,740.28
+1162,2025-06-17,Office Supplies,Sticky Notes,South,2,2.94,5.88
+1163,2025-11-29,Office Supplies,Pen Set,South,2,6.18,12.36
+1164,2025-09-01,Electronics,Wireless Mouse,North,4,19.23,76.92
+1165,2025-04-30,Furniture,Office Chair,East,2,109.21,218.42
+1166,2025-09-20,Office Supplies,Notebook,East,3,3.96,11.88
+1167,2025-11-23,Furniture,Office Chair,North,6,113.22,679.32
+1168,2025-01-23,Furniture,Bookshelf,South,4,93.5,374.0
+1169,2025-01-06,Electronics,Webcam,South,6,34.36,206.16
+1170,2025-02-09,Furniture,Standing Desk,East,4,235.64,942.56
+1171,2025-02-02,Home & Kitchen,Air Purifier,West,7,69.02,483.14
+1172,2025-11-24,Home & Kitchen,Air Purifier,South,2,77.3,154.6
+1173,2025-05-26,Home & Kitchen,Desk Lamp,West,5,21.64,108.2
+1174,2025-08-01,Electronics,USB-C Cable,East,7,8.13,56.91
+1175,2025-07-27,Furniture,Standing Desk,West,4,282.98,1131.92
+1176,2025-02-28,Home & Kitchen,Water Bottle,West,2,11.77,23.54
+1177,2025-03-08,Furniture,Filing Cabinet,South,1,86.48,86.48
+1178,2025-10-21,Office Supplies,Desk Organizer,North,6,15.71,94.26
+1179,2025-05-26,Office Supplies,Stapler,East,3,7.03,21.09
+1180,2025-09-09,Electronics,Wireless Mouse,West,4,17.29,69.16
+1181,2025-01-28,Electronics,Laptop Stand,East,7,25.68,179.76
+1182,2025-11-11,Office Supplies,Stapler,West,4,7.46,29.84
+1183,2025-01-22,Office Supplies,Pen Set,South,7,6.53,45.71
+1184,2025-03-05,Office Supplies,Desk Organizer,East,3,14.24,42.72
+1185,2025-12-08,Office Supplies,Notebook,North,6,3.69,22.14
+1186,2025-11-29,Home & Kitchen,Air Purifier,East,7,72.12,504.84
+1187,2025-12-04,Office Supplies,Desk Organizer,West,6,14.84,89.04
+1188,2025-01-02,Home & Kitchen,Water Bottle,North,8,11.92,95.36
+1189,2025-04-02,Home & Kitchen,Air Purifier,West,8,73.51,588.08
+1190,2025-08-09,Electronics,Bluetooth Speaker,East,6,41.33,247.98
+1191,2025-01-21,Home & Kitchen,Air Purifier,North,3,68.73,206.19
+1192,2025-01-28,Furniture,Monitor Arm,North,7,43.28,302.96
+1193,2025-11-11,Office Supplies,Notebook,North,2,3.75,7.5
+1194,2025-12-18,Home & Kitchen,Desk Lamp,South,4,20.09,80.36
+1195,2025-03-23,Furniture,Monitor Arm,East,6,45.33,271.98
+1196,2025-05-11,Furniture,Filing Cabinet,South,8,89.46,715.68
+1197,2025-06-13,Furniture,Monitor Arm,South,6,38.11,228.66
+1198,2025-11-22,Office Supplies,Desk Organizer,South,5,15.54,77.7
+1199,2025-02-28,Home & Kitchen,Water Bottle,East,1,12.33,12.33
+1200,2025-05-10,Furniture,Filing Cabinet,North,7,99.52,696.64
+1201,2025-07-08,Furniture,Bookshelf,West,3,82.62,247.86
+1202,2025-04-01,Electronics,Laptop Stand,South,1,26.86,26.86
+1203,2025-01-01,Furniture,Bookshelf,East,1,80.27,80.27
+1204,2025-08-02,Furniture,Monitor Arm,West,6,45.32,271.92
+1205,2025-11-10,Office Supplies,Desk Organizer,South,1,13.57,13.57
+1206,2025-06-05,Electronics,Webcam,East,2,35.16,70.32
+1207,2025-10-29,Office Supplies,Desk Organizer,East,3,14.11,42.33
+1208,2025-01-08,Home & Kitchen,Water Bottle,South,4,12.5,50.0
+1209,2025-11-23,Home & Kitchen,Coffee Mug,North,3,8.59,25.77
+1210,2025-01-06,Furniture,Filing Cabinet,East,1,97.75,97.75
+1211,2025-11-05,Furniture,Monitor Arm,West,8,39.89,319.12
+1212,2025-09-30,Electronics,Wireless Mouse,North,1,17.66,17.66
+1213,2025-02-23,Office Supplies,Stapler,North,1,7.16,7.16
+1214,2025-04-13,Office Supplies,Stapler,West,7,7.44,52.08
+1215,2025-02-02,Office Supplies,Pen Set,East,5,6.15,30.75
+1216,2025-07-12,Home & Kitchen,Air Purifier,North,7,78.68,550.76
+1217,2025-03-31,Home & Kitchen,Coffee Mug,West,4,8.79,35.16
+1218,2025-03-05,Furniture,Standing Desk,North,6,280.35,1682.1
+1219,2025-11-22,Furniture,Office Chair,East,7,124.46,871.22
+1220,2025-02-13,Furniture,Bookshelf,South,1,79.39,79.39
+1221,2025-06-17,Office Supplies,Stapler,South,4,7.53,30.12
+1222,2025-07-14,Furniture,Monitor Arm,South,8,41.77,334.16
+1223,2025-04-30,Electronics,Wireless Mouse,West,5,19.04,95.2
+1224,2025-10-17,Home & Kitchen,Air Purifier,North,3,69.67,209.01
+1225,2025-11-15,Electronics,Wireless Mouse,North,3,17.44,52.32
+1226,2025-01-22,Office Supplies,Notebook,North,3,4.15,12.45
+1227,2025-02-03,Electronics,Wireless Mouse,North,6,16.92,101.52
+1228,2025-05-07,Electronics,Laptop Stand,North,4,26.34,105.36
+1229,2025-11-20,Electronics,Wireless Mouse,North,5,17.92,89.6
+1230,2025-05-31,Office Supplies,Notebook,South,6,3.87,23.22
+1231,2025-05-12,Furniture,Office Chair,East,5,109.16,545.8
+1232,2025-05-28,Furniture,Bookshelf,West,1,89.91,89.91
+1233,2025-06-27,Electronics,Laptop Stand,North,8,29.15,233.2
+1234,2025-03-29,Office Supplies,Notebook,East,7,3.6,25.2
+1235,2025-01-03,Office Supplies,Sticky Notes,North,6,2.99,17.94
+1236,2025-10-31,Home & Kitchen,Water Bottle,West,6,13.1,78.6
+1237,2025-05-26,Furniture,Monitor Arm,South,4,45.68,182.72
+1238,2025-02-26,Office Supplies,Desk Organizer,South,2,14.97,29.94
+1239,2025-02-18,Electronics,USB-C Cable,East,7,9.77,68.39
+1240,2025-07-10,Electronics,Laptop Stand,North,4,26.9,107.6
+1241,2025-07-14,Home & Kitchen,Air Purifier,South,4,81.66,326.64
+1242,2025-06-28,Office Supplies,Pen Set,North,6,6.03,36.18
+1243,2025-03-28,Home & Kitchen,Air Purifier,East,8,74.08,592.64
+1244,2025-03-06,Furniture,Monitor Arm,South,6,41.68,250.08
+1245,2025-05-17,Office Supplies,Pen Set,South,5,6.31,31.55
+1246,2025-06-17,Office Supplies,Stapler,South,6,6.53,39.18
+1247,2025-02-22,Furniture,Standing Desk,East,3,284.04,852.12
+1248,2025-03-19,Electronics,Bluetooth Speaker,West,3,47.65,142.95
+1249,2025-04-11,Furniture,Filing Cabinet,East,2,97.62,195.24
+1250,2025-07-18,Electronics,USB-C Cable,South,8,8.16,65.28
