@@ -25,3 +25,23 @@ python make_sales_data.py     # (optional) regenerate raw sample data
 python analyze_sales.py       # run the analysis
 python build_sales_excel.py   # (optional) rebuild the Excel workbook
 ```
+## Technologies Used
+- Python 3.12
+- pandas — data manipulation, cleaning, and analysis
+- openpyxl — Excel workbook formatting and charts
+- NumPy — synthetic data generation
+
+## Setup Instructions
+
+1. **Clone the repository**
+   ```bash
+   git clone <YOUR_GITHUB_REPO_LINK>
+   cd data-cleaning-internship-task
+   ```
+
+2. **Install dependencies**
+   ```bash
+   pip install pandas numpy openpyxl
+   ```
+
+3. **Run either project** using the commands listed above.
